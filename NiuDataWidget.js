@@ -899,4 +899,4 @@ switch (args.plainTexts[0]) {
 		Script.setWidget(widget);
 		presentWidget(widget);
 		Script.complete();
-}
+}1
